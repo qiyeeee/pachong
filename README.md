@@ -1,7 +1,7 @@
 # 爬虫
 爬取笔趣阁的小说
 
-某阁地址：bbiquge.net   请勿用于攻击
+某阁地址：bbiquge点net   请勿用于攻击
 # 运行顺序
 1. get_proxy_ip.py
 2. get_books.py
